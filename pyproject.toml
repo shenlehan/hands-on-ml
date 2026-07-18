@@ -8,6 +8,7 @@ dependencies = [
     "matplotlib>=3.11.0",
     "numpy>=2.4.6",
     "pandas>=3.0.3",
+    "pydotplus>=2.0.2",
     "scikit-image>=0.26.0",
     "scikit-learn>=1.9.0",
     "scipy>=1.17.1",
